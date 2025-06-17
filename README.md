@@ -52,3 +52,7 @@ A modern, feature-rich notes app built using React. It allows users to create, s
 
 npm install
 npm start
+
+👨‍💻 Author Developed with ❤️ by Anmol Mandhan 📎 LinkedIn Profile | www.linkedin.com/in/anmol-mandhan-6a80362a8
+
+🌟 Give a Star! If you like this project, don’t forget to ⭐ star it on GitHub!
